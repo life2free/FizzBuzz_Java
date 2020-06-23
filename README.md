@@ -1,2 +1,2 @@
 # FizzBuzz Java
-FizzBuzz in Java code.
+FizzBuzz in Java.
