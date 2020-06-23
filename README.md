@@ -1,2 +1,2 @@
-# Hello Java
-Push the java code to GitHub.
+# FizzBuzz Java
+FizzBuzz in Java code.
